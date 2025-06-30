@@ -39,7 +39,21 @@ The project explores the integration of AI techniques into MPC for embedded cont
 - `torch`
 - `casadi`
 - `numpy`, `scipy`, `matplotlib`
-- In txt under [python/requirements.txt](requirements.txt)
+- In txt under [requirements.txt](python/requirements.txt)
+
+## Guide
+
+### Matlab
+- [Model](matlab/script_sim_suh.m)
+- [MPC](matlab/script_mpc_suh.m)
+- [GP](matlab/LearnMPC_GPs/Script_learnGP.m)
+
+### Python
+- [Model](python/script_sim_suh.m)
+- [MPC](python/script_mpc_suh.m)
+- [Observer](python/script_kf_suh.py)
+- [NN-Pytorch](python/script_nn.py)
+- [NN-Tensorflow](python/script_tensorflow_nn.py)
 
 ## Acknowledgment
 The Code in this repository was produced as part of the KI-Embedded project of the German Federal Ministry of Economic Affairs and Climate Action (BMWK).
