@@ -49,8 +49,8 @@ The project explores the integration of AI techniques into MPC for embedded cont
 - [GP](matlab/LearnMPC_GPs/Script_learnGP.m)
 
 ### Python
-- [Model](python/script_sim_suh.m)
-- [MPC](python/script_mpc_suh.m)
+- [Model](python/script_sim_suh.py)
+- [MPC](python/script_mpc_suh.py)
 - [Observer](python/script_kf_suh.py)
 - [NN-Pytorch](python/script_nn.py)
 - [NN-Tensorflow](python/script_tensorflow_nn.py)
