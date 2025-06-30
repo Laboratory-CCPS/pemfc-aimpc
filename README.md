@@ -40,6 +40,6 @@ The project explores the integration of AI techniques into MPC for embedded cont
 - `casadi`
 - `numpy`, `scipy`, `matplotlib`
 
-### Acknowledgment
+## Acknowledgment
 The Code in this repository was produced as part of the KI-Embedded project of the German Federal Ministry of Economic Affairs and Climate Action (BMWK).
 The authors and maintainers acknowledge funding of the KI-Embedded project of the BMWK.
