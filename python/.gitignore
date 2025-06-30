@@ -1,0 +1,11 @@
+/.venv
+/.vscode
+/.env
+__pycache__
+/data/
+/NN_dev.py
+/current_best_nn.pickle
+/minimal_nn_example.ipynb
+/minimal_nn_example.py
+/Controller Comparison.svg
+/datagen_el_50Hz.py

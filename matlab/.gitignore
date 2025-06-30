@@ -1,0 +1,5 @@
+*.asv
+/dae_modelling/dae_temp/*.mexw64
+/dae_modelling/dae_temp/*.c
+/figures
+/work
