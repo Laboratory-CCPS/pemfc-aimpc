@@ -22,7 +22,7 @@ The project explores the integration of AI techniques into MPC for embedded cont
 
 ### Python
 - `model/`: PEM fuel cell models used in control tasks (equivalent to Matlab version)
-- - `mpc/`: Classical MPC design using CasADi (via Python interface).
+- `mpc/`: Classical MPC design using CasADi (via Python interface).
 - `nn_mpc/`: Neural Network-based MPC approximation using PyTorch.
 - `utils/`: Helper scripts for training, evaluation, and simulation.
 
