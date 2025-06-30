@@ -23,7 +23,7 @@ The project explores the integration of AI techniques into MPC for embedded cont
 ### Python
 - `model/`: PEM fuel cell models used in control tasks (equivalent to Matlab version)
 - `mpc/`: Classical MPC design using CasADi (via Python interface).
-- `nn_mpc/`: Neural Network-based MPC approximation using PyTorch.
+- `nn_mpc/`: Neural Network-based MPC approximation using PyTorch or Tensorflow.
 - `utils/`: Helper scripts for training, evaluation, and simulation.
 
 ## Requirements
@@ -39,6 +39,7 @@ The project explores the integration of AI techniques into MPC for embedded cont
 - `torch`
 - `casadi`
 - `numpy`, `scipy`, `matplotlib`
+- In txt under [requirements.txt](requirements.txt)
 
 ## Acknowledgment
 The Code in this repository was produced as part of the KI-Embedded project of the German Federal Ministry of Economic Affairs and Climate Action (BMWK).
